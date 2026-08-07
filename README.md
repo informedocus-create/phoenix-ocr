@@ -16,3 +16,8 @@ An OCR processing pipeline project.
 - `docs/`: Project documentation
 - `models/`: Model checkpoints and weights
 - `assets/`: Project static assets
+
+## License
+
+This project is licensed under the [MIT License](file:///c:/Users/HP/Desktop/phoenix-ocr/LICENSE).
+
