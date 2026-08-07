@@ -1,0 +1,18 @@
+{
+    "doc_id": "3d742295c98148dea270787269d9d40a",
+    "filename": "sample_invoice.pdf",
+    "page_count": 2,
+    "dpi": 300,
+    "render_engine": "PyMuPDF",
+    "dimensions": {
+        "width": 2550,
+        "height": 3300
+    },
+    "benchmarks": {
+        "elapsed_time_seconds": 0.9275,
+        "avg_sec_per_page": 0.4637
+    },
+    "status": "completed",
+    "error_message": null,
+    "created_at": "2026-08-07T05:41:42.108903+00:00"
+}
